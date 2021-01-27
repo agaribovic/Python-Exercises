@@ -1,4 +1,4 @@
-###Note-taking
+Note-taking
 
 When a user starts it up, it prompts them for a filename.
 
