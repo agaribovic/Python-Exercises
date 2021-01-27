@@ -1,5 +1,3 @@
-Note-taking
-
 When a user starts it up, it prompts them for a filename.
 
 If they enter a file name that doesn't exist, it prompts them to enter the text they want to write to the file. After they enter the text, it saves the file and exits.
