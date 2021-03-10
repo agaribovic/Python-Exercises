@@ -1,0 +1,1 @@
+Live interview coding exercise to find a combination of elements with sum that equals to 15. 
